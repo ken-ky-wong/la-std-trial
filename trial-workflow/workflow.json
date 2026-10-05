@@ -34,7 +34,7 @@
                         "type": "object",
                         "properties": {
                             "amount": {
-                                "type": "integer"
+                                "type": "number"
                             },
                             "orderId": {
                                 "type": "string"
